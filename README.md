@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shamshadali
 - 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning Analytics using R
-- 💞️ I’m looking to collaborate on Analysis
+- 🌱 I’m currently learning Data Analytics using R
+- 💞️ I’m looking to collaborate on Data Analysis cocepts and practices
 - 📫 How to reach me shamshadaliperumbalath@gmail.com 
 
 <!---
